@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\bin\Debug\BackInThePast.exe.config
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\bin\Debug\BackInThePast.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\bin\Debug\BackInThePast.pdb
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\obj\Debug\BackInThePast.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\obj\Debug\BackInThePast.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\obj\Debug\BackInThePast.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\BackInThePast\obj\Debug\BackInThePast.pdb

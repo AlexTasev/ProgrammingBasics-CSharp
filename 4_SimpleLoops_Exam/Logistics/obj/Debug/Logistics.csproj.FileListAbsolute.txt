@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\bin\Debug\Logistics.exe.config
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\bin\Debug\Logistics.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\bin\Debug\Logistics.pdb
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\obj\Debug\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\obj\Debug\Logistics.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Logistics\obj\Debug\Logistics.pdb

@@ -1,0 +1,7 @@
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\bin\Debug\SmartLili.exe.config
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\bin\Debug\SmartLili.exe
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\bin\Debug\SmartLili.pdb
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\obj\Debug\SmartLili.csprojResolveAssemblyReference.cache
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\obj\Debug\SmartLili.csproj.CoreCompileInputs.cache
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\obj\Debug\SmartLili.exe
+c:\users\altas\source\repos\4_SimpleLoops\SmartLili\obj\Debug\SmartLili.pdb

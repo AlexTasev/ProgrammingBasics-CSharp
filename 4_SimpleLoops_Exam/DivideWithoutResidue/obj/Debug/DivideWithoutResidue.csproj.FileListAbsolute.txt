@@ -1,0 +1,7 @@
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\bin\Debug\DivideWithoutResidue.exe.config
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\bin\Debug\DivideWithoutResidue.exe
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\bin\Debug\DivideWithoutResidue.pdb
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\obj\Debug\DivideWithoutResidue.csproj.CoreCompileInputs.cache
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\obj\Debug\DivideWithoutResidue.exe
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\obj\Debug\DivideWithoutResidue.pdb
+c:\users\altas\source\repos\4_SimpleLoops\DivideWithoutResidue\obj\Debug\DivideWithoutResidue.csprojResolveAssemblyReference.cache

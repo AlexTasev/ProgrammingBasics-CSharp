@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\bin\Debug\Hospital.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\bin\Debug\Hospital.pdb
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\obj\Debug\Hospital.exe
+C:\Users\altas\source\repos\4_SimpleLoops_Exam\Hospital\obj\Debug\Hospital.pdb

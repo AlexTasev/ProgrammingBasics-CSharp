@@ -1,0 +1,7 @@
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\bin\Debug\Histogram.exe.config
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\bin\Debug\Histogram.exe
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\bin\Debug\Histogram.pdb
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\obj\Debug\Histogram.exe
+c:\users\altas\source\repos\4_SimpleLoops\Histogram\obj\Debug\Histogram.pdb
