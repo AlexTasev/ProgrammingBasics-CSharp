@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\bin\Debug\MagicNumbers.exe
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\bin\Debug\MagicNumbers.pdb
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\obj\Debug\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\obj\Debug\MagicNumbers.exe
+C:\Users\altas\source\repos\6_AdvancedLoops-Exam\MagicNumbers\obj\Debug\MagicNumbers.pdb

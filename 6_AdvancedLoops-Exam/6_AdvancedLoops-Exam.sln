@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidPasswordsGenerator", "StupidPasswordsGenerator\StupidPasswordsGenerator.csproj", "{1386C356-5BDB-4003-B52D-9322A8928D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicNumbers", "MagicNumbers\MagicNumbers.csproj", "{2F18C9C3-52CB-4C47-8322-8C72759AD103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNumbers\SpecialNumbers.csproj", "{D66F279F-F2AF-4A4F-A9DE-0789F72271AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1386C356-5BDB-4003-B52D-9322A8928D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1386C356-5BDB-4003-B52D-9322A8928D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1386C356-5BDB-4003-B52D-9322A8928D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1386C356-5BDB-4003-B52D-9322A8928D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F18C9C3-52CB-4C47-8322-8C72759AD103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F18C9C3-52CB-4C47-8322-8C72759AD103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F18C9C3-52CB-4C47-8322-8C72759AD103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F18C9C3-52CB-4C47-8322-8C72759AD103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66F279F-F2AF-4A4F-A9DE-0789F72271AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66F279F-F2AF-4A4F-A9DE-0789F72271AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66F279F-F2AF-4A4F-A9DE-0789F72271AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66F279F-F2AF-4A4F-A9DE-0789F72271AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A52C3A-76B8-4749-8FA0-4689DBBBAD76}
+	EndGlobalSection
+EndGlobal
