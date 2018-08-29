@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\bin\Debug\2_Illidan.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\bin\Debug\2_Illidan.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\bin\Debug\2_Illidan.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\obj\Debug\2_Illidan.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\obj\Debug\2_Illidan.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\obj\Debug\2_Illidan.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\2_Illidan\obj\Debug\2_Illidan.pdb

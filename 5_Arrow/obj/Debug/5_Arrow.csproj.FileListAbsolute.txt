@@ -1,0 +1,7 @@
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\bin\Debug\5_Arrow.exe.config
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\bin\Debug\5_Arrow.exe
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\bin\Debug\5_Arrow.pdb
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\obj\Debug\5_Arrow.csprojResolveAssemblyReference.cache
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\obj\Debug\5_Arrow.csproj.CoreCompileInputs.cache
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\obj\Debug\5_Arrow.exe
+C:\Users\AlexTasev\source\repos\7_Exam100318\5_Arrow\obj\Debug\5_Arrow.pdb

@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\bin\Debug\1_Travel.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\bin\Debug\1_Travel.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\bin\Debug\1_Travel.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\obj\Debug\1_Travel.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\obj\Debug\1_Travel.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\obj\Debug\1_Travel.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_Travel\obj\Debug\1_Travel.pdb

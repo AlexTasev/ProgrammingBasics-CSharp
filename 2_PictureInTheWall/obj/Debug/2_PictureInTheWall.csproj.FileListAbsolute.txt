@@ -1,0 +1,6 @@
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\bin\Debug\2_PictureInTheWall.exe.config
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\bin\Debug\2_PictureInTheWall.exe
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\bin\Debug\2_PictureInTheWall.pdb
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\obj\Debug\2_PictureInTheWall.csproj.CoreCompileInputs.cache
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\obj\Debug\2_PictureInTheWall.exe
+c:\users\altas\source\repos\Exam100318\2_PictureInTheWall\obj\Debug\2_PictureInTheWall.pdb

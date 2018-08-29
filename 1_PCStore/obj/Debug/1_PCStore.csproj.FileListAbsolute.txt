@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\bin\Debug\1_PCStore.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\bin\Debug\1_PCStore.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\bin\Debug\1_PCStore.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\obj\Debug\1_PCStore.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\obj\Debug\1_PCStore.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\obj\Debug\1_PCStore.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\1_PCStore\obj\Debug\1_PCStore.pdb

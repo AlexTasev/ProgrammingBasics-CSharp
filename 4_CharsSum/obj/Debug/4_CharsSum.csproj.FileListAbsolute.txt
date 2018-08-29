@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\bin\Debug\4_CharsSum.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\bin\Debug\4_CharsSum.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\bin\Debug\4_CharsSum.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\obj\Debug\4_CharsSum.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\obj\Debug\4_CharsSum.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\obj\Debug\4_CharsSum.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_CharsSum\obj\Debug\4_CharsSum.pdb

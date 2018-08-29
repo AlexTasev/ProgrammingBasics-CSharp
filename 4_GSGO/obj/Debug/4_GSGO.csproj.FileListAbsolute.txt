@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\bin\Debug\4_GSGO.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\bin\Debug\4_GSGO.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\bin\Debug\4_GSGO.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\obj\Debug\4_GSGO.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\obj\Debug\4_GSGO.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\obj\Debug\4_GSGO.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_GSGO\obj\Debug\4_GSGO.pdb

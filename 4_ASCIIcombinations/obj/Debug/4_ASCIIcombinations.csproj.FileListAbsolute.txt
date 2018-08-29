@@ -1,0 +1,7 @@
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\bin\Debug\4_ASCIIcombinations.exe.config
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\bin\Debug\4_ASCIIcombinations.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\bin\Debug\4_ASCIIcombinations.pdb
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\obj\Debug\4_ASCIIcombinations.csprojResolveAssemblyReference.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\obj\Debug\4_ASCIIcombinations.csproj.CoreCompileInputs.cache
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\obj\Debug\4_ASCIIcombinations.exe
+C:\Users\altas\OneDrive\Документи\Visual Studio 2017\Projects\7_Exam100318\4_ASCIIcombinations\obj\Debug\4_ASCIIcombinations.pdb
