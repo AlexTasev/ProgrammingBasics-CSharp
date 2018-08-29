@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\bin\Debug\TicketForMatch.exe.config
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\bin\Debug\TicketForMatch.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\bin\Debug\TicketForMatch.pdb
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\obj\Debug\TicketForMatch.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\obj\Debug\TicketForMatch.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\obj\Debug\TicketForMatch.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\TicketForMatch\obj\Debug\TicketForMatch.pdb

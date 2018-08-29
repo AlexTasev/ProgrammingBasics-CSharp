@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\bin\Debug\On TimeForExam.exe.config
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\bin\Debug\On TimeForExam.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\bin\Debug\On TimeForExam.pdb
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\obj\Debug\On TimeForExam.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\obj\Debug\On TimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\obj\Debug\On TimeForExam.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\On TimeForExam\obj\Debug\On TimeForExam.pdb

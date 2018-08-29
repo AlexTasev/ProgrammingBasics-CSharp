@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\bin\Debug\Journey.exe.config
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\bin\Debug\Journey.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\bin\Debug\Journey.pdb
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\obj\Debug\Journey.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\obj\Debug\Journey.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\Journey\obj\Debug\Journey.pdb

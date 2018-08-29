@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\altas\source\repos\ComplexConditions_Exam\MathOperations\obj\Debug\MathOperations.pdb
