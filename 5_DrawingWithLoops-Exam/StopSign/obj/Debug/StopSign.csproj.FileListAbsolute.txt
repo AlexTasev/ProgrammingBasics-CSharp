@@ -1,0 +1,14 @@
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.exe.config
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.pdb
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.csprojResolveAssemblyReference.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.pdb
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.exe.config
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\bin\Debug\StopSign.pdb
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\StopSign\obj\Debug\StopSign.pdb

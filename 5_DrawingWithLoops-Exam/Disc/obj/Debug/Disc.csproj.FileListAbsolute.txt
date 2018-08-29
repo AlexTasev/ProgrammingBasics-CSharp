@@ -1,0 +1,7 @@
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\obj\Debug\Disc.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\obj\Debug\Disc.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\bin\Debug\Disc.exe.config
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\bin\Debug\Disc.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\bin\Debug\Disc.pdb
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\obj\Debug\Disc.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Disc\obj\Debug\Disc.pdb

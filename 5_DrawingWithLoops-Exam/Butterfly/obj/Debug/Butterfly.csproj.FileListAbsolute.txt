@@ -1,0 +1,7 @@
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Butterfly\obj\Debug\Butterfly.pdb

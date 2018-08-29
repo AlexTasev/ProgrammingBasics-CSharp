@@ -1,0 +1,14 @@
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\bin\Debug\Fort.exe.config
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\bin\Debug\Fort.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\bin\Debug\Fort.pdb
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\obj\Debug\Fort.csprojResolveAssemblyReference.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\obj\Debug\Fort.csproj.CoreCompileInputs.cache
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\obj\Debug\Fort.exe
+C:\Users\AlexTasev\source\repos\DrawingWithLoops-Exam\Fort\obj\Debug\Fort.pdb
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\bin\Debug\Fort.exe.config
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\bin\Debug\Fort.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\bin\Debug\Fort.pdb
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\obj\Debug\Fort.csprojResolveAssemblyReference.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\obj\Debug\Fort.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\obj\Debug\Fort.exe
+C:\Users\altas\source\repos\5_DrawingWithLoops-Exam\Fort\obj\Debug\Fort.pdb
